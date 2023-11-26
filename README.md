@@ -7,4 +7,3 @@ WeeURL ~  a URL shortner app built using Go, Redis, Docker
 
 ![](https://github.com/abhinine4/weeURL/blob/main/images/smaple.png)
 
-source: https://www.youtube.com/@AkhilSharmaTech
